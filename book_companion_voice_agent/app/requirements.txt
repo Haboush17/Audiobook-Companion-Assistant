@@ -12,6 +12,8 @@
 #deepgram-sdk
 
 
+
+
 streamlit==1.33.0
 PyPDF2==3.0.1
 langchain==0.1.16
@@ -20,7 +22,6 @@ pinecone-client==3.2.2
 cohere==4.41
 groq==0.3.0
 python-dotenv==1.0.1
-pyaudio==0.2.14
 deepgram-sdk==3.2.0
 rich==13.7.1
 numpy==1.26.4
