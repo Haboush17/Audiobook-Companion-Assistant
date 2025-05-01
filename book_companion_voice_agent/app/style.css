@@ -1,0 +1,36 @@
+/* Custom styles for the Streamlit app */
+.stButton>button {
+    width: 100%;
+    border-radius: 20px;
+    border: 1px solid #4CAF50;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.stButton>button:hover {
+    background-color: #45a049;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.stFileUploader>div>div>button {
+    border-radius: 20px;
+}
+
+.stMarkdown {
+    font-family: 'Arial', sans-serif;
+}
+
+.stAlert {
+    border-radius: 10px;
+}
+
+.stSpinner {
+    color: #4CAF50;
+}
